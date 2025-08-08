@@ -20,4 +20,4 @@
 
 ### Clash Verge 安装与配置
 
-*   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-install)
+*   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-verge-install)
