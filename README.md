@@ -17,3 +17,7 @@
 *   [Hiddify Next (iOS) 安装与配置](https://github.com/hysteria350/hiddifyapp-install/blob/main/hiddify_next_iOS_install.md)
     
 *   [如何使用 HiddifyCli 或 Hiddify 命令行](https://github.com/hysteria350/hiddifyapp-install/blob/main/How_to_use_HiddifyCli.md)
+
+### Clash Verge 安装与配置
+
+*   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-install)
