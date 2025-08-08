@@ -21,3 +21,7 @@
 ### Clash Verge 安装与配置
 
 *   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-verge-install)
+
+### V2ray 系列科学上网客户端
+
+*   [Windows 平台 v2rayN 安装与配置教程](https://github.com/hysteria350/v2rayN-install)
