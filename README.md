@@ -31,8 +31,8 @@
 
 ### Stash 安装与配置
 
-   [iOS 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
-   [AppleTV 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
+*   [iOS 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
+*   [AppleTV 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
    
 ### 游戏加速
 * [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
