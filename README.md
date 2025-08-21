@@ -29,6 +29,7 @@
 *   [Windows 平台 v2rayN 安装与配置教程](https://github.com/hysteria350/v2rayN-install)
 *   [Windows 平台 v2rayA 安装与配置教程（2025 最新）](https://github.com/hysteria350/v2rayA-install)
 
-### SSTap 使用教程
-* [Windows 平台 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
+### 游戏加速工具 
+* [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
+* [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
   
