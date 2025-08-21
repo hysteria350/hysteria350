@@ -29,7 +29,12 @@
 *   [Windows 平台 v2rayN 安装与配置教程](https://github.com/hysteria350/v2rayN-install)
 *   [Windows 平台 v2rayA 安装与配置教程（2025 最新）](https://github.com/hysteria350/v2rayA-install)
 
-### 游戏加速工具 
+### Stash 安装与配置
+
+   [iOS 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
+   [AppleTV 平台 Stash 安装与配置教程](https://github.com/hysteria350/Stash-install)
+   
+### 游戏加速
 * [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
 * [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
   
