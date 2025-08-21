@@ -12,17 +12,18 @@
     
 *   [Windows 上安装与配置 HiddifyApp](https://github.com/hysteria350/hiddifyapp-install/blob/main/install_hiddifyApp_on_windows.md)
     
-*   [Hiddify Next (Android) 安装与配置](https://github.com/hysteria350/hiddifyapp-install/blob/main/hiddify_next_mobile_install.md)
+*   [Hiddify Next (Android) 安装与配置教程](https://github.com/hysteria350/hiddifyapp-install/blob/main/hiddify_next_mobile_install.md)
     
-*   [Hiddify Next (iOS) 安装与配置](https://github.com/hysteria350/hiddifyapp-install/blob/main/hiddify_next_iOS_install.md)
+*   [Hiddify Next (iOS) 安装与配置教程](https://github.com/hysteria350/hiddifyapp-install/blob/main/hiddify_next_iOS_install.md)
     
 *   [如何使用 HiddifyCli 或 Hiddify 命令行](https://github.com/hysteria350/hiddifyapp-install/blob/main/How_to_use_HiddifyCli.md)
 
 ### Clash 安装与配置
 
-*   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-verge-install)
-*   [Windows 平台 Clash for Windows 安装与使用](https://github.com/hysteria350/clash-for-windows-install)
-*   [Clash for Android 安装与使用](https://github.com/hysteria350/clash-for-Android-install)
+*   [Clash Verge 安装与使用教程](https://github.com/hysteria350/clash-verge-install)
+*   [Windows 平台 Clash for Windows 安装与使用教程](https://github.com/hysteria350/clash-for-windows-install)
+*   [Clash for Android 安装与使用教程](https://github.com/hysteria350/clash-for-Android-install)
+*   [Clash X 安装与使用教程](https://github.com/hysteria350/clash-x-install-and-config)
   
 ### V2ray 系列科学上网客户端
 
