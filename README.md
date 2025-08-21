@@ -18,10 +18,11 @@
     
 *   [如何使用 HiddifyCli 或 Hiddify 命令行](https://github.com/hysteria350/hiddifyapp-install/blob/main/How_to_use_HiddifyCli.md)
 
-### Clash Verge 安装与配置
+### Clash 安装与配置
 
 *   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-verge-install)
-
+*   [Windows 平台 Clash for Windows 安装与使用](https://github.com/hysteria350/clash-for-windows-install)
+  
 ### V2ray 系列科学上网客户端
 
 *   [Windows 平台 v2rayN 安装与配置教程](https://github.com/hysteria350/v2rayN-install)
