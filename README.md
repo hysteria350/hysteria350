@@ -22,6 +22,7 @@
 
 *   [Clash Verge 安装与使用](https://github.com/hysteria350/clash-verge-install)
 *   [Windows 平台 Clash for Windows 安装与使用](https://github.com/hysteria350/clash-for-windows-install)
+*   [Clash for Android 安装与使用](https://github.com/hysteria350/clash-for-Android-install)
   
 ### V2ray 系列科学上网客户端
 
