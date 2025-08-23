@@ -47,4 +47,4 @@
   
 ### 其他
 
-[如何注册美区苹果账号?](https://github.com/hysteria350/SSTap-install)
+[如何注册美区苹果账号?](https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md)
