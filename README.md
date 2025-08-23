@@ -20,6 +20,7 @@
 
 ### Clash 安装与配置
 
+*   [Windows 平台 mihomo 安装与使用教程](https://github.com/hysteria350/mihomo-install)
 *   [Clash Verge 安装与使用教程](https://github.com/hysteria350/clash-verge-install)
 *   [Windows 平台 Clash for Windows 安装与使用教程](https://github.com/hysteria350/clash-for-windows-install)
 *   [Clash for Android 安装与使用教程](https://github.com/hysteria350/clash-for-Android-install)
@@ -42,9 +43,9 @@
    
 ### 游戏加速
 
-* [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
-* [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
+*   [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
+*   [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
   
 ### 其他
 
-[如何注册美区苹果账号?](https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md)
+*   [如何注册美区苹果账号?](https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md)
