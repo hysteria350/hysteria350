@@ -45,3 +45,6 @@
 * [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
 * [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
   
+### 其他
+
+[如何注册美区苹果账号?](https://github.com/hysteria350/SSTap-install)
