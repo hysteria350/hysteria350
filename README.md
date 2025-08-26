@@ -18,6 +18,7 @@
 
 ### Clash 安装与配置
 
+*   [Linux 平台 Clash nyanpasu 安装与使用教程](https://github.com/hysteria350/Clash-nyanpasu-install)
 *   [Windows 平台 mihomo 安装与使用教程](https://github.com/hysteria350/mihomo-install)
 *   [Linux 平台 mihomo 安装与使用教程](https://github.com/hysteria350/mihomo-install/blob/main/install-mihomo-on-linux.md)
 *   [Clash Verge 安装与使用教程](https://github.com/hysteria350/clash-verge-install)
