@@ -51,7 +51,19 @@
 ### 游戏加速
 
 *   [Windows 平台上 SSTap 安装与使用教程](https://github.com/hysteria350/SSTap-install)
-*   [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install) 
+*   [Windows 平台上 Netch 安装与使用教程](https://github.com/hysteria350/Netch-install)
+
+## 自建节点[¶](https://docs.proxyguide.org/#2 "自建节点")
+
+*   [使用 sing-box 搭建 SS 节点](https://docs.proxyguide.org/diy-nodes/ss-on-sing-box/)
+    
+*   [使用 sing-box 搭建 Hysteria2 节点](https://docs.proxyguide.org/diy-nodes/hysteria2-on-sing-box/)
+    
+*   [使用 sing-box 搭建 Tuic 节点](https://docs.proxyguide.org/diy-nodes/tuic-on-sing-box/)
+    
+*   [使用 sing-box 搭建 Anytls 节点](https://docs.proxyguide.org/diy-nodes/anytls-on-sing-box/)
+    
+*   [使用 sing-box 搭建 Anytls + Reality 节点](https://docs.proxyguide.org/diy-nodes/anytls-reality-on-sing-box/)
   
 ### 其他
 
