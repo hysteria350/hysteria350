@@ -64,7 +64,13 @@
 *   [使用 sing-box 搭建 Anytls 节点](https://docs.proxyguide.org/diy-nodes/anytls-on-sing-box/)
     
 *   [使用 sing-box 搭建 Anytls + Reality 节点](https://docs.proxyguide.org/diy-nodes/anytls-reality-on-sing-box/)
-  
-### 其他
+
+## 机场推荐
+
+*   [2026 性价比机场推荐](https://docs.proxyguide.org/recommen/v2ray_node_recommendations/)
+*   [2026年稳定翻墙机场推荐](https://docs.proxyguide.org/recommen/stable-vpn-recommendations/)
+*   [支持 Hysteria 2 协议的机场推荐](https://docs.proxyguide.org/recommen/hysteria2_node_providers/)
+
+## 其他
 
 *   [如何注册美区苹果账号?](https://github.com/hysteria350/Shadowrocket-install/blob/main/how-to-register-an-us-apple-id.md)
