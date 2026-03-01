@@ -18,14 +18,37 @@
 
 ### Clash 安装与配置
 
-*   [Windows 平台 Clash nyanpasu 安装与使用教程](https://github.com/hysteria350/Clash-nyanpasu-install/blob/main/Clash-nyanpasu-install-on-Windows.md)
-*   [Linux 平台 Clash nyanpasu 安装与使用教程](https://github.com/hysteria350/Clash-nyanpasu-install)
-*   [Windows 平台 mihomo 安装与使用教程](https://github.com/hysteria350/mihomo-install)
-*   [Linux 平台 mihomo 安装与使用教程](https://github.com/hysteria350/mihomo-install/blob/main/install-mihomo-on-linux.md)
-*   [Clash Verge 安装与使用教程](https://github.com/hysteria350/clash-verge-install)
-*   [Windows 平台 Clash for Windows 安装与使用教程](https://github.com/hysteria350/clash-for-windows-install)
-*   [Clash for Android 安装与使用教程](https://github.com/hysteria350/clash-for-Android-install)
-*   [Clash X 安装与使用教程](https://github.com/hysteria350/clash-x-install-and-config)
+*   [Macos 上安装与配置 FlClash 教程](https://docs.proxyguide.org/clash/FlClash-install-on-macos/)
+    
+*   [Windows 上安装与配置 FlClash 教程](https://docs.proxyguide.org/clash/FlClash-install-on-windows/)
+    
+*   [Linux 上安装与配置 FlClash 教程](https://docs.proxyguide.org/clash/FlClash-install-on-linux/)
+    
+*   [Windows 平台 Clash nyanpasu 安装与使用教程](https://docs.proxyguide.org/clash/clash-nyanpasu-windows/)
+    
+*   [Linux 平台 Clash nyanpasu 安装与使用教程](https://docs.proxyguide.org/clash/clash-nyanpasu-linux/)
+    
+*   [Windows 平台 mihomo 安装与使用教程](https://docs.proxyguide.org/clash/mihomo-windows/)
+    
+*   [Linux 平台 mihomo 安装与使用教程](https://docs.proxyguide.org/clash/mihomo-linux/)
+    
+*   [Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-on-linux/)
+    
+*   [Windows 平台 Clash for Windows 安装与使用教程](https://docs.proxyguide.org/clash/clash-for-windows-install/)
+    
+*   [Clash for Android 安装与使用教程](https://docs.proxyguide.org/clash/clash-for-Android-install/)
+    
+*   [Clash X 安装与使用教程](https://docs.proxyguide.org/clash/clash-x-install-and-config/)
+    
+*   [Macos 平台上 Clash Mi 安装和使用教程](https://docs.proxyguide.org/clash/clash-mi-Macos-install/)
+    
+*   [Windows 平台上 Clash Mi 安装和使用教程](https://docs.proxyguide.org/clash/clash-mi-Windows-install/)
+    
+*   [Android 平台上 Clash Mi 安装和使用教程](https://docs.proxyguide.org/clash/clash-mi-Android-install/)
+    
+*   [Linux 平台上 Clash Mi 安装和使用教程](https://docs.proxyguide.org/clash/clash-mi-Linux-install/)
+    
+*   [iOS 平台 Clash Mi 安装与配置教程](https://docs.proxyguide.org/clash/clash-mi-iOS-install/)
   
 ### V2ray 系列科学上网客户端
 
